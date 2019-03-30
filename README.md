@@ -1,6 +1,7 @@
-# Software Renderer
+# Planet shading
 
-A software renderer made in Python.
+An extension of my software renderer that renders mars and its moons only using shaders.
+Render Mars, Phobos and Deimos using my SR!
 
 ## Examples
-Run ```photoshoot.py``` and comment/uncomment last lines for examples.
+Run ```shader_example.py```.
